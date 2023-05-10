@@ -1,0 +1,51 @@
+{
+    "contacts":[
+        {
+            "id":"qwerty1234",
+            "name":"Rajan",
+            "photo":" https://png.pngtree.com/png-clipart/20191120/original/pngtree-outline-user-icon-png-image_5045523.jpg",
+            "mobile":"8542929297",
+            "email":"anil@gmail.com",
+            "title":"sde1",
+            "company":"XYZ Solutions",
+             "group": "1"
+
+
+        },
+        {
+            "id":"qwerty1234",
+            "name":"Rajan",
+            "photo":" https://png.pngtree.com/png-clipart/20191120/original/pngtree-outline-user-icon-png-image_5045523.jpg",
+            "mobile":"8542929297",
+            "email":"anil@gmail.com",
+            "title":"sde1",
+            "company":"XYZ Solutions",
+             "group": "1"
+
+
+        },
+        {
+            "id":"qwerty12342",
+            "name":"Rajan",
+            "photo":" https://png.pngtree.com/png-clipart/20191120/original/pngtree-outline-user-icon-png-image_5045523.jpg",
+            "mobile":"8542929297",
+            "email":"anil@gmail.com",
+            "title":"sde1",
+            "company":"XYZ Solutions",
+             "group": "2"
+
+
+        }
+    ] ,
+    "groups" : [
+        {
+            "id":"1",
+            "name":"Collegue"
+        },
+        {
+            "id":"2",
+            "name":"Family"
+        }
+    ]
+
+}
