@@ -31,7 +31,7 @@ function ContactList() {
     <>
     <section className='contact-search  p-3' >
       <div className='container'>
-        <div className='grid'>
+        <div className='grid-1'>
           <div className='row'>
             <div className='col-lg-4'>
               <p className='h3'>Contact Manager</p>
